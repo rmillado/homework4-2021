@@ -70,7 +70,8 @@ a{
 /*Req 6a*/
 td{
   text-align: center;
-  border: 2px solid #000000;
+  border-top: 2px solid #000000;
+  padding: 10px;
 }
 
 /*Req 6b*/
