@@ -51,10 +51,10 @@ p{
 
 a{
   font-size: 16px;
-  color: #C12258;
+  color: #B92751;
   text-decoration-line: underline;
   text-decoration-style: wavy;
-  text-decoration-color: #C12258;
+  text-decoration-color: #B92751;
   /*Req 4*/
 }
 
@@ -79,7 +79,8 @@ td{
   min-width: 125px;
   padding: 10px;
   color: #FFFFFF;
-  text-align: center;
+  justify-content: center;
+  align-items: center;
   text-transform: uppercase;
   background-color: #7e0820;
 }
@@ -132,12 +133,12 @@ tr:last-child td:last-child{
 
 /*Req 8*/
 footer{
-  width:100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
   background:#000000;
   text-align:center;
   color: #FFFFFF;
   min-height: 75px;
-  position:absolute;
-  bottom: 0;
 }
-
