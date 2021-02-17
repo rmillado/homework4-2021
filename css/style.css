@@ -31,7 +31,7 @@ body{
   background-size: cover ;
   background-position: center;
   font-family: "Andika", sans-serif;
-  background-image: url('/Users/raffymillado/Downloads/hw4-2021-main/images/pigeon-background.JPEG');
+  background-image: url('../images/pigeon-background.JPEG');
   background-color: #DDDDDD;
   /*Req 1*/
 }
