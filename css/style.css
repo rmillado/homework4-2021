@@ -79,8 +79,8 @@ td{
   min-width: 125px;
   padding: 10px;
   color: #FFFFFF;
-  justify-content: center;
-  align-items: center;
+  text-align: center;
+  vertical-align: middle;
   text-transform: uppercase;
   background-color: #7e0820;
 }
